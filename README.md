@@ -67,7 +67,10 @@ http://192.168.100.129
 
 
 ## ✅ Prints
-As capturas de tela dos principais passos foram incluídas na pasta /images.
+As capturas de tela dos principais passos:
+- Website Attack Vectors (https://drive.google.com/drive/folders/1rR4uNqRFsNgBFUG-oj01Z8o1RR9gV2Go)
+- Credential Haverter Attack Method [https://drive.google.com/drive/folders/1rR4uNqRFsNgBFUG-oj01Z8o1RR9gV2Go]
+- Site Cloner [https://drive.google.com/drive/folders/1rR4uNqRFsNgBFUG-oj01Z8o1RR9gV2Go]
 
 
 ## ✅ Conclusão
